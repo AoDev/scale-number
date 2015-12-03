@@ -1,4 +1,4 @@
-Scale numbers
+Scale number
 ==============
 
 Let's you map a number from a range to another.

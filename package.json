@@ -1,6 +1,6 @@
 {
   "name": "scale-number",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scale a number to a different range of numbers.",
   "main": "lib/scaleNumber.js",
   "scripts": {
@@ -17,10 +17,10 @@
   "email": "kevin.purnelle@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:AoDev/scale-numbers.git"
+    "url": "git@github.com:AoDev/scale-number.git"
   },
   "bugs": {
-    "url": "https://github.com/AoDev/scale-numbers/issues"
+    "url": "https://github.com/AoDev/scale-number/issues"
   },
   "license": "MIT",
   "devDependencies": {
