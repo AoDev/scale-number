@@ -1,6 +1,6 @@
 {
   "name": "scale-number",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Scale a number to a different range of numbers.",
   "main": "lib/scaleNumber.js",
   "scripts": {

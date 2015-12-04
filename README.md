@@ -5,7 +5,7 @@ Let's you map a number from a range to another.
 
 ---------------------------
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Build Status](https://travis-ci.org/AoDev/scale-numbers.svg)](https://travis-ci.org/AoDev/scale-numbers)
+[![Build Status](https://travis-ci.org/AoDev/scale-number.svg)](https://travis-ci.org/AoDev/scale-numbers)
 
 Current status: Alpha, API might change until 1.0.0
 
