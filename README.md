@@ -1,3 +1,7 @@
+[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+
+D3.js developers released their scaling functions into a separate package. I recommend to use these instead. [d3-scale](https://github.com/d3/d3-scale)
+
 Scale number
 ==============
 
