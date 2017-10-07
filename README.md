@@ -24,7 +24,7 @@ Ranges are expressed with arrays.
 
 
 ```js
-var scaleNumber = require('scale-numbers')
+var scaleNumber = require('scale-number')
 var scale = scaleNumber.createLinearScale([10, 20], [100, 200])
 
 var number = scale(15)
